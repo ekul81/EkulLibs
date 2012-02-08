@@ -8,17 +8,17 @@ Imports System.Runtime.InteropServices
 
 ' Review the values of the assembly attributes
 
-<Assembly: AssemblyTitle("ekullibs")> 
+<Assembly: AssemblyTitle("EkulLib")> 
 <Assembly: AssemblyDescription("")> 
 <Assembly: AssemblyCompany("")> 
-<Assembly: AssemblyProduct("ekullibs")> 
+<Assembly: AssemblyProduct("EkulLib")> 
 <Assembly: AssemblyCopyright("Copyright ©  2012")> 
 <Assembly: AssemblyTrademark("")> 
 
 <Assembly: ComVisible(False)>
 
 'The following GUID is for the ID of the typelib if this project is exposed to COM
-<Assembly: Guid("3bdc50c6-f0be-44de-9efe-fcc069d33b8c")> 
+<Assembly: Guid("a4c70122-0b63-463f-8e6a-1fd13cdc86e1")> 
 
 ' Version information for an assembly consists of the following four values:
 '

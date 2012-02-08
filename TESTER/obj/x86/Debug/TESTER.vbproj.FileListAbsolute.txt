@@ -1,0 +1,13 @@
+C:\Users\Luke\EkulLib\TESTER\bin\Debug\TESTER.exe
+C:\Users\Luke\EkulLib\TESTER\bin\Debug\TESTER.pdb
+C:\Users\Luke\EkulLib\TESTER\bin\Debug\TESTER.xml
+C:\Users\Luke\EkulLib\TESTER\bin\Debug\EkulLib.dll
+C:\Users\Luke\EkulLib\TESTER\bin\Debug\EkulLib.pdb
+C:\Users\Luke\EkulLib\TESTER\bin\Debug\EkulLib.xml
+C:\Users\Luke\EkulLib\TESTER\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Luke\EkulLib\TESTER\obj\x86\Debug\TESTER.Resources.resources
+C:\Users\Luke\EkulLib\TESTER\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Luke\EkulLib\TESTER\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Luke\EkulLib\TESTER\obj\x86\Debug\TESTER.exe
+C:\Users\Luke\EkulLib\TESTER\obj\x86\Debug\TESTER.xml
+C:\Users\Luke\EkulLib\TESTER\obj\x86\Debug\TESTER.pdb

@@ -1,0 +1,10 @@
+C:\Users\Luke\EkulLib\EkulLib\bin\Debug\EkulLib.dll
+C:\Users\Luke\EkulLib\EkulLib\bin\Debug\EkulLib.pdb
+C:\Users\Luke\EkulLib\EkulLib\bin\Debug\EkulLib.xml
+C:\Users\Luke\EkulLib\EkulLib\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Luke\EkulLib\EkulLib\obj\Debug\EkulLib.Resources.resources
+C:\Users\Luke\EkulLib\EkulLib\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Luke\EkulLib\EkulLib\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Luke\EkulLib\EkulLib\obj\Debug\EkulLib.dll
+C:\Users\Luke\EkulLib\EkulLib\obj\Debug\EkulLib.xml
+C:\Users\Luke\EkulLib\EkulLib\obj\Debug\EkulLib.pdb
