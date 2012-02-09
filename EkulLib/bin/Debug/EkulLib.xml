@@ -6,7 +6,33 @@ EkulLib
 </name>
 </assembly>
 <members>
-<member name="P:EkulLib.My.Resources.Resources.ResourceManager">
+<member name="M:EkulLib.maths.Stats.Average(System.Int32[])">
+	<summary>
+ Calculates Mean value from an array of integers
+ </summary>
+	<param name="IArrValues">Array of integers to calculate from.</param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="T:EkulLib.maths.Stats">
+	<summary>
+ Contains Maths and Maths related functions
+ </summary>
+	<remarks>
+ Organised into rough Modules according to where I normally come across said terms.
+ </remarks>
+</member><member name="M:EkulLib.Array.Core.append``1(``0[]@,``0)">
+	<summary>
+ Adds a new item onto the end of an array, expands it and then adds item in new location. Preserves existing data
+ </summary>
+	<param name="arr">array to add object too.</param>
+	<param name="objecttoadd">Object to add to array.</param>
+	<remarks></remarks>
+</member><member name="T:EkulLib.Array.Core">
+	<summary>
+ contains array related functions.
+ </summary>
+	<remarks></remarks>
+</member><member name="P:EkulLib.My.Resources.Resources.ResourceManager">
 	<summary>
   Returns the cached ResourceManager instance used by this class.
 </summary>
